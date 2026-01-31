@@ -1,0 +1,10 @@
+101,Laptop Dell XPS 15,1299.99,45
+102,Wireless Mouse Logitech,29.99,150
+103,Mechanical Keyboard,89.99,8
+104,USB-C Hub,45.50,75
+105,Monitor 27 inch,349.99,30
+106,Webcam HD,79.99,5
+107,Headphones Sony,199.99,60
+108,Phone Stand,15.99,120
+109,Cable Organizer,12.50,3
+110,Laptop Bag,59.99,40
